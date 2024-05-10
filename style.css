@@ -1,0 +1,336 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.8;
+
+}
+
+#foot
+{
+	color: white;
+	background-color: #212121;
+	width: auto;
+	height: 30px;
+}
+
+.navbar-brand
+{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+}
+
+#Nav
+{
+	font-size: large;
+}
+
+.nav-link
+{
+	color: black !important;
+}
+
+
+.parallex1
+{
+	background: url('img/jonas-jacobsson-411044-unsplash.jpg');
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallex2
+{
+	background: url('img/ExcellentCoaching.png');
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-item:hover
+{
+	background-color:#D6EAF8;
+	border-radius: 5px;
+}
+
+.carousel-inner img 
+{
+	width: 100%;
+	height: 700px;
+}
+
+.carousel-caption
+{
+	position: absolute;
+	top: 50%;
+}
+
+.carousel-caption h1
+{
+	font-size: 300%;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 15px #000;
+
+}
+
+.carousel-caption h3
+{
+	font-size: 100%;
+	font-weight: 500;
+	text-shadow: 1px 1px 10px #000;
+	padding-bottom: 16px;
+}
+
+footer
+{
+	width: 100%;
+	height: 350px;
+	padding: 50px;
+}
+
+.black a
+{
+		text-decoration: none;
+		color: white;
+}
+
+.black a:hover
+{
+	color: #D6EAF8;
+}
+
+
+
+#name, #number
+{
+	margin: 20px;
+	padding: 20px;
+	height: 50px;
+	width: 40%;
+	border-radius: 10px;
+	background-color: #CCD1D1;
+
+}
+
+#subject, #email, #message
+{
+	background-color: #CCD1D1;
+	margin: 20px;
+	padding: 20px;
+	height: 50px;
+	width: 80%;
+	border-radius: 10px;
+
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+	  -webkit-appearance: none;
+	  appearance: none; 
+  	margin: 0; 
+}
+
+#message
+{
+	height: 150px;
+}
+
+button
+{
+	margin: 20px;
+}
+
+iframe
+{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+form textarea
+{
+	overflow: hidden;
+}
+
+.contact_us
+{
+
+	margin-top: 100px; 
+}
+
+.grey figure img
+{
+	border-radius: 50%;
+	height: 250px;
+
+
+}
+
+.grey
+{
+	padding: 100px;
+	background-color: #EAEDED;
+}
+
+.social
+{
+	background-color: #000;
+	height: 50px;
+	width: 100%;
+}
+
+.fa-facebook:hover, .fa-twitter:hover
+{
+	color: #3498DB;
+	transition: .5s;
+}
+
+.fa-youtube:hover, .fa-instagram:hover
+{
+	color: #E74C3C;
+	transition: all .5s;
+}
+
+.fa
+{
+	padding: 15px;
+   font-size:20px;
+   color: white;
+}
+
+#phone
+{
+	padding-bottom: 50px !important;
+	font-size: 25px;
+}
+
+
+
+#news-letter
+{
+	padding: 10px;
+	height: 50px;
+	width: 100%;
+	background-color: #CCD1D1;
+}
+#news-letter-btn
+{
+	margin-top: 20px;
+	background-color: #229954;
+	border-radius: 10px;
+}
+#news-letter-btn:hover
+{
+	background-color: #D6EAF8;
+	color: black;
+}
+
+#rights
+{
+	background-color: #424949;
+	height: 100%;
+	color: white;
+	padding-top: 10px;
+}
+
+#Services
+{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+
+.side-nav
+{
+	text-decoration: none;
+	color: #000;
+	display: list-item;
+	list-style: none;
+}
+
+.side-nav:hover
+{
+	text-decoration: none;
+	color: #5DADE2;
+	display: list-item;
+	list-style: none;
+}
+
+.light
+{
+	background-color: #D6EAF8;
+}
+
+button a
+{
+	text-decoration: none;
+	color: #000;
+}
+button a:hover
+{
+	text-decoration: none;
+	color: #000;
+}
+
+
+.btn-download
+{
+	background-color: #2E86C1;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	font-size: 16px;
+	cursor: pointer;
+	font-size: 20px;
+}
+.btn-download:hover 
+{
+	background-color: RoyalBlue;
+}
+
+#logo
+{
+	height: 80px;
+	width: 300px;
+}
+
+.black
+{
+	background-color: #000;
+	color: white !important;
+}
+
+#login
+{
+	text-decoration: none;
+	color: #000;
+}
+
+#login:hover
+{
+	text-decoration: none;
+	color: #2E86C1;
+}
+
+.banner
+{ height:250px;
+width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
